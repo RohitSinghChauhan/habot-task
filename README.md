@@ -17,8 +17,8 @@ Build Tool: Vite
 Setup and Installation
 To run this project locally, follow these steps:
 
-1. Clone this repository
-- https://github.com/RohitSinghChauhan/habot-task.git
+Run-
+- git clone https://github.com/RohitSinghChauhan/habot-task.git
 - npm install
 - npm run dev
 
